@@ -1,6 +1,6 @@
 #spec/calculator_spec.rb
 
-require "../lib/calculator.rb"
+require "./lib/calculator.rb"
 
 describe Calculator do
   describe "#add" do
